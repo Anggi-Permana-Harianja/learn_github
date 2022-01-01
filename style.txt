@@ -1,7 +1,5 @@
 this is style page, need to fetch
 change one time
-change two time
-
-
+change two 
 
 can we fetch this
